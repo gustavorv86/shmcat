@@ -15,7 +15,7 @@ void usage() {
 	printf("\n");
 	printf("SysV IPC shared memory print on the standard output. \n");
 	printf("\n");
-	printf("Usage: \n\t shmcat <key> [length] \n");
+	printf("Usage: \n\t shmcat <shmid> [length] \n");
 	printf("\n");
 }
 
